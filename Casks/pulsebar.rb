@@ -1,6 +1,6 @@
 cask "pulsebar" do
-  version "0.1.0"
-  sha256 "bffcd7318fbfbf4b24c150bfd5d7915ea16c6a8be7e8db223e16910a40d56066"
+  version "0.2.0"
+  sha256 "397b23f99bd4398907633f49985dd67f920b93c3b26cf598f50a9b88c022cd8d"
 
   url "https://github.com/skyvis-my/pulsebar/releases/download/v#{version}/Pulsebar-#{version}.zip"
   name "Pulsebar"
